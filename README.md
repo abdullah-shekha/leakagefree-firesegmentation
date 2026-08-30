@@ -1,6 +1,7 @@
-# Code implementation for the paper
+# Leakage-Free Data Partitioning for Instance Segmentation
 
-**Leakage-Free Evaluation of Mask R-CNN for Fire Region Segmentation in Still Images: Accuracy and Failure Modes on Fire-Illuminated Objects**
+Near-duplicate grouping and group-aware train/validation/test splitting, with an
+audit that measures how much leakage a partition contains.
 
 > [!NOTE]
 > **Work in progress.** This repository currently contains the data-partitioning
