@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Datasets and experiment outputs -- never commit these
+data/
+outputs/
+predictions/
+*.pth
+*.log
