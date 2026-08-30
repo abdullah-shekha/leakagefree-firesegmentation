@@ -35,4 +35,4 @@ Run either script with `--help` for the full list of options.
 
 ## Licence
 
-MIT. See `LICENSE`.
+MIT. See [`LICENSE`](LICENSE).
